@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jules-verne/robur-the-conqueror/sampson-low-marston-searle-rivington</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-10-16T18:11:36Z</dc:date>
+		<meta property="dcterms:modified">2026-10-16T18:11:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -30,6 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Robur the Conqueror</dc:title>
 		<meta property="file-as" refines="#title">Robur the Conqueror</meta>
+		<meta property="dcterms:alternative" refines="#title">The Clipper of the Clouds</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
@@ -41,17 +42,20 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">30</meta>
+		<meta id="collection-2" property="belongs-to-collection">Robur the Conqueror</meta>
+		<meta property="collection-type" refines="#collection-2">series</meta>
+		<meta property="group-position" refines="#collection-2">1</meta>
 		<meta property="schema:abstract">A domineering inventor kidnaps members of a balloonist club and flies them around the world to prove the superiority of his heavier-than-air machine.</meta>
 		<dc:description>
-			&lt;p&gt;&lt;i&gt;Robur the Conqueror&lt;/i&gt;, also published as &lt;i&gt;The Clipper of the Clouds&lt;/i&gt;, opens in Philadelphia at a meeting of the Weldon Institute, a club of balloon enthusiasts. A stranger named Robur asks to address the members, then tells them that the future belongs to heavier-than-air machines. He mocks the club’s giant balloon, the &lt;i&gt;Go-Ahead&lt;/i&gt;, and insults its members until the meeting erupts in chaos. That night he kidnaps Uncle Prudent, the club’s president; Phil Evans, its secretary; and Frycollin, Prudent’s servant. He takes them captive aboard the &lt;i&gt;Albatross&lt;/i&gt;, the flying machine he built, and flies them around the world to prove his point. After the captives escape, the story returns to Philadelphia for the first launch of the &lt;i&gt;Go-Ahead&lt;/i&gt;, where the &lt;i&gt;Albatross&lt;/i&gt; appears in the sky to challenge it.&lt;/p&gt;
-			&lt;p&gt;First published in 1886 as &lt;i&gt;Robur-le-Conquérant&lt;/i&gt;, this book marked the 30th entry in &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;&lt;i&gt;Voyages Extraordinaires&lt;/i&gt;&lt;/a&gt;. Its sequel, &lt;a href="https://standardebooks.org/ebooks/jules-verne/master-of-the-world/cranstoun-metcalfe"&gt;&lt;i&gt;Master of the World&lt;/i&gt;&lt;/a&gt;, followed in 1904.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Robur the Conqueror&lt;/i&gt;, also published as &lt;i&gt;The Clipper of the Clouds&lt;/i&gt;, opens in Philadelphia at a meeting of the Weldon Institute, a club of balloon enthusiasts. A stranger named Robur asks to address the members, then tells them that the future belongs to heavier-than-air machines. He mocks the club’s giant balloon, the &lt;i&gt;Go-Ahead&lt;/i&gt;, and insults its members until the meeting erupts in chaos. That night he kidnaps Uncle Prudent, the club’s president, Phil Evans, its secretary, and Frycollin, Prudent’s servant. He takes them captive aboard the &lt;i&gt;Albatross&lt;/i&gt;, the flying machine he built, and flies them around the world to prove his point. After the captives escape, the story returns to Philadelphia for the first launch of the &lt;i&gt;Go-Ahead&lt;/i&gt;, where the &lt;i&gt;Albatross&lt;/i&gt; appears in the sky to challenge it.&lt;/p&gt;
+			&lt;p&gt;First published in 1886 as &lt;i&gt;Robur-le-Conquérant&lt;/i&gt;, this book marks the thirtieth entry in &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;&lt;i&gt;Voyages Extraordinaires&lt;/i&gt;&lt;/a&gt;. Its sequel, &lt;a href="https://standardebooks.org/ebooks/jules-verne/master-of-the-world/cranstoun-metcalfe"&gt;&lt;i&gt;Master of the World&lt;/i&gt;&lt;/a&gt;, followed in 1904.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3808</dc:source>
 		<dc:source>https://archive.org/details/clipperofclouds00vernrich</dc:source>
 		<dc:source>https://archive.org/details/worksofjulesvern14vernuoft</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">53397</meta>
+		<meta property="schema:educationalLevel">70.53</meta>
 		<link href="https://en.wikipedia.org/wiki/Robur_the_Conqueror" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -81,6 +85,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<link href="https://github.com/dajare" refines="#producer-2" rel="schema:url"/>
+		<link href="https://id.loc.gov/authorities/names/n92075987.html" refines="#producer-2" rel="schema:sameAs"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
