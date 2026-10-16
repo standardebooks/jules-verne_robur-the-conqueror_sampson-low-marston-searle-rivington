@@ -1,4 +1,4 @@
-The base text is Project Gutenberg ebook #3808, transcribed from the American translation printed in The Works of Jules Verne, Volume 14 (New York: Vincent Parke, 1911); a page scan of that volume is at <https://archive.org/details/worksofjulesvern14vernuoft>. The British translation cited as a page-scan source above, The Clipper of the Clouds, is a separate translation that this edition follows as the authority for the text.
+The base text is Project Gutenberg ebook #3808, transcribed from the American translation printed in The Works of Jules Verne, Volume 14 (New York: Vincent Parke, 1911); a page scan of that volume is at <https://archive.org/details/worksofjulesvern14vernuoft>. The British translation titled _The Clipper of the Clouds_, https://archive.org/details/clipperofclouds00vernrich, is a separate translation that this edition follows as the authority for the text.
 
 Both source editions print the name of the Weldon Institute’s airship as the solid compound “Goahead”; the base transcription normalizes it to the hyphenated dictionary form “Go-Ahead,” which this edition retains as a modernization of obsolete typography.
 
